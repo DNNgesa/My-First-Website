@@ -1,15 +1,21 @@
 body {
-    font-size: large;
-  }
-  .box-margin {
-    margin: 75px;
-    margin: 75px;
-    margin: 75px;
-    margin: 75px;
-  }
-  h1 {
+  font-size: large;
+}
+.box-margin {
+  margin: 75px;
+  margin: 75px;  
+  margin: 75px;
+  margin: 75px;
+}
+h1 {
+  color: #023474;
+  text-align: center;
+}
+h2 {
+    color: #023474;
     text-align: center;
-  }
-  h2 {
-    text-align: center;
-  }
+}
+.closing-remark {
+  text-align: center;
+  color: #DB0007;
+}
