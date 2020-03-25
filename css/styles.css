@@ -58,3 +58,6 @@ h2:after {
 .logo-center {
     text-align: center;
 }
+ul { 
+  line-height: 40px;
+}
