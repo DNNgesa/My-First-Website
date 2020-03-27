@@ -7,7 +7,7 @@ Tools used:
 <li>HTML</li>
 <li>css</li>
 
-Author:
+<br>Author:
 <br>Drake Ngesa
 
 Sources:
