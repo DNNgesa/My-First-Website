@@ -12,6 +12,6 @@ Drake Ngesa
 
 Sources:
 Image source: https://www.stickpng.com/img/icons-logos-emojis/football/uk-premier-league/arsenal-logo
-Video sources:
+<br>Video sources:
 - The English Premier League: https://www.youtube.com/watch?v=WlAOYuzoQjw&t=218s
 - The Guardian Sport: https://www.youtube.com/watch?v=-grjIUWKoBA
