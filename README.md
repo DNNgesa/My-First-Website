@@ -1,14 +1,14 @@
 https://dnngesa.github.io/My-First-Website/. is a webpage designed and built to give a brief overview of myself. It contains some of my interests and hobbies as well as video links to short films that inspire and motivate me.
 
 Page instructions:
-This is a single page site that contains only two links. Click on the underlined values to be redirected to external video sources.
+<br>This is a single page site that contains only two links. Click on the underlined values to be redirected to external video sources.
 
 Tools used:
-HTML
-css
+<li>HTML</li>
+<li>css</li>
 
 Author:
-Drake Ngesa
+<br>Drake Ngesa
 
 Sources:
 <br>Image source: https://www.stickpng.com/img/icons-logos-emojis/football/uk-premier-league/arsenal-logo
